@@ -10,4 +10,4 @@ The website is useful to keep track of the workouts but lack a few functionaliti
 
 Since the website doesn't have an API. Selenium is used to log to the website and then export the data
 
-# 3. Data Processing (under construction)
+## 3. Data Processing (under construction)
